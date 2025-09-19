@@ -191,7 +191,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         1. Sales 총 인원 446명, Research & Development 인원 961명 
             
-            ![스크린샷 2025-09-18 오후 3.13.52.png](attachment:97fe3545-3ac7-4f93-9db8-6dbf46e95187:스크린샷_2025-09-18_오후_3.13.52.png)
+      <img width="630" height="408" alt="image" src="https://github.com/user-attachments/assets/f14e868e-8ddd-4779-9018-0f77d7f636f7" />
+
             
         
         <aside>
@@ -201,14 +202,16 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         - 따라서 Sales 부서에서 이직률을 낮추면 회사 전체에서 의미있는 비중으로 이직률을 감소시킬 수 있을 것이고, 연차가 쌓인 사람(뛰어난 역량을 가진 사람) 보유 확률이 증가할 것이다.
         </aside>
         
-        ![스크린샷 2025-09-17 오후 5.38.28.png](attachment:b698cd1e-959b-4e20-9f57-8d30b239b967:스크린샷_2025-09-17_오후_5.38.28.png)
+       <img width="651" height="460" alt="image" src="https://github.com/user-attachments/assets/b8afcec7-de94-4817-acb3-bbdeb7abbd26" />
+
         
         <aside>
         
         - 실제로 Sales 부서의 이직률이 가장 높고, Research & Development 부서보다 이직률이 높다.
         </aside>
         
-        ![스크린샷 2025-09-18 오후 3.11.32.png](attachment:51a9902f-e145-483a-b536-eb52df54ca6c:스크린샷_2025-09-18_오후_3.11.32.png)
+       <img width="652" height="232" alt="image" src="https://github.com/user-attachments/assets/2c9c01ea-1e32-448f-8f9a-77d7e34a62dd" />
+
         
         Sales vs Research & Development 월급 비교
         
@@ -254,7 +257,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         - Sales 부서 사람의 월급이 비교적 낮아 추가적인 고용에 있어서도 다른 전체 부서에 비해 덜 부담스럽다. (비용 대비 고용 인원 증대 효율 좋음)
         </aside>
         
-        ![스크린샷 2025-09-18 오후 3.24.15.png](attachment:2c9fb456-b65b-4156-b16e-f2a71bbb1806:스크린샷_2025-09-18_오후_3.24.15.png)
+       <img width="652" height="612" alt="image" src="https://github.com/user-attachments/assets/c2190742-192a-4985-b6ec-46687d2897b3" />
+
         
         <aside>
         
@@ -264,7 +268,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         초과근무 여부별 이직률
         
-        ![스크린샷 2025-09-18 오후 3.07.47.png](attachment:bfcb6c89-ac30-481b-99bb-841df852751e:스크린샷_2025-09-18_오후_3.07.47.png)
+         <img width="651" height="444" alt="image" src="https://github.com/user-attachments/assets/753c2e6b-0fbc-4772-ba7b-411569f3391b" />
+
         
         <aside>
         
@@ -272,15 +277,11 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         </aside>
         
-        ![스크린샷 2025-09-18 오후 3.13.00.png](attachment:49990101-f8ea-4b3f-b561-ef586f05e53b:스크린샷_2025-09-18_오후_3.13.00.png)
+        <img width="657" height="188" alt="image" src="https://github.com/user-attachments/assets/a2ddb287-5561-4397-9f15-786f796815f8" />
+
         
-        ![스크린샷 2025-09-18 오후 3.13.05.png](attachment:8e8473e4-44af-4d08-8504-ef29b4a669dd:스크린샷_2025-09-18_오후_3.13.05.png)
-        
-        ![스크린샷 2025-09-18 오후 3.13.12.png](attachment:4dafd392-0b42-4353-9d08-fad7f8518c36:스크린샷_2025-09-18_오후_3.13.12.png)
-        
-        ![image.png](attachment:38867d44-d2f1-484e-9f0f-32bc60747ddb:image.png)
-        
-        ![스크린샷 2025-09-17 오후 5.39.18.png](attachment:1cbd78d9-387e-418c-81c8-8de32834e589:스크린샷_2025-09-17_오후_5.39.18.png)
+        <img width="651" height="825" alt="image" src="https://github.com/user-attachments/assets/f8109c15-717f-42b6-ae9c-fcda474afb9c" />
+
         
         <aside>
         
@@ -290,7 +291,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         </aside>
         
-        ![스크린샷 2025-09-18 오후 3.07.55.png](attachment:77bf1b6a-26c3-40cc-a248-4a10dab0c070:스크린샷_2025-09-18_오후_3.07.55.png)
+        <img width="653" height="387" alt="image" src="https://github.com/user-attachments/assets/a6e5b078-7d5d-42d9-887c-b7d5d4df966b" />
+
         
         <aside>
         
@@ -302,7 +304,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         </aside>
         
-        ![스크린샷 2025-09-17 오후 5.39.35.png](attachment:52598fda-83d5-4418-9104-d91fc020aa68:스크린샷_2025-09-17_오후_5.39.35.png)
+        <img width="652" height="513" alt="image" src="https://github.com/user-attachments/assets/f17150b9-066c-40cd-a5cf-d93656b46af3" />
+
         
         <aside>
         
@@ -325,15 +328,18 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         한국을 기준으로 생각했을 때, 주 40시간 기준으로 야근하지 않는 사람과 야근 하는 사람의 일하는 시간은 다음과 같다.
         
-        ![image.png](attachment:2d56cceb-0064-4355-8d84-fcaee20b778d:image.png)
+        <img width="654" height="180" alt="image" src="https://github.com/user-attachments/assets/615a751a-4824-4a82-b792-7da3d34676b0" />
+
         
         Sales 부서에서 사람을 추가적으로 고용해 야근 하는 사람을 야근 하지 않기 위해 필요한 추가 고용 인원을 계산하면 다음과 같다. 
         
-        ![image.png](attachment:cae84004-9755-4faa-bc42-26642c5728bc:image.png)
+        <img width="655" height="356" alt="image" src="https://github.com/user-attachments/assets/e46b00f7-e10a-4f9f-a836-c4b355277456" />
+
         
         추가 고용을 통해 Sales 야근 했을 때의 이직률인  38% 와 야근 안할때의 이직률인 17%로 개선 시키게 된다면 추가 인원에 따라 이직률이 다음과 같이 감소할 것이다. 
         
-        ![image.png](attachment:cd72ffef-0681-4979-813a-ccfeb81f10d3:image.png)
+        <img width="650" height="401" alt="image" src="https://github.com/user-attachments/assets/5850a5cd-e26d-481b-8845-6b1c256b1929" />
+
         
         시뮬레이션을 통해 바라본 이 전략의 기대 효과
         
@@ -349,11 +355,13 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         추가 고용이 완전히 다 됐을 때 이직률인 17%에선 처음에 고용했던 인원이 15년이 지나도 꽤 많은 비율로 남아 있었다. (높은 경험치가 있는 사람 보유 가능성 증가)
         
-        ![스크린샷 2025-09-18 오후 3.08.06.png](attachment:86146ac7-ff67-4057-b1ff-86002d10e48e:스크린샷_2025-09-18_오후_3.08.06.png)
+        <img width="652" height="356" alt="image" src="https://github.com/user-attachments/assets/06f3bd89-782d-48fd-85d0-67602736a337" />
+
         
         추가 고용이 없었을 때의 이직률인 38%에선 처음에 고용했던 인원이 거의 남지 않았다.
         
-        ![스크린샷 2025-09-18 오후 3.08.15.png](attachment:8815050e-cba6-4515-8e4c-69018d6b18d2:스크린샷_2025-09-18_오후_3.08.15.png)
+        <img width="651" height="356" alt="image" src="https://github.com/user-attachments/assets/cfb66be7-8ccd-484c-bf8b-53ad7a30d80b" />
+
         
         <aside>
         
@@ -388,29 +396,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         - 주요 사용 변수 설명
         
-        - 개발 부서 직무별 직원 분포
-        
-        ![image.png](attachment:cde5d0d1-b604-418b-8cce-cf630b31fb60:image.png)
-        
-        - 개발 부서 직무별 평균 월급
-        
-        ![image.png](attachment:ab100d82-bde3-4c78-8f13-c46248cbdd30:image.png)
-        
-        - 개발 부서 직무별 커리어단계 분포
-        
-        ![image.png](attachment:f1b87398-d276-4c62-a0fc-30aeef9b1645:image.png)
-        
-        - 개발 부서 직무별 이직률
-        
-        ![image.png](attachment:554a81dd-796a-4476-bc9e-df979422f023:image.png)
-        
-        - 개발 부서 직무별 야근 분포
-        
-        ![image.png](attachment:072795ed-360e-4f9d-b9dd-16ed32db5ea6:image.png)
-        
-        개발 부서 직무별 평균 교육 횟수
-        
-        ![image.png](attachment:0472fe84-9a59-4e10-b9b3-25005f98bb76:image.png)
+        <img width="670" height="652" alt="image" src="https://github.com/user-attachments/assets/f0bc508a-8536-4617-87ec-7c17a6da5527" />
+
         
         - 인사이트 및 가설 정리
         
@@ -429,13 +416,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         - 분석 결과
             - 두 직무 내 이직자들의 커리어단계와 연차에 비례한 월급 상승률의 연관성
             
-            ![image.png](attachment:da9f026c-d779-40b9-9048-a0690e26529e:image.png)
-            
-            ![image.png](attachment:7ff4ca05-2840-456e-80b3-8fb21f712f61:image.png)
-            
-            ![image.png](attachment:eb7aae65-ecc6-48e9-b8b0-25423c051211:image.png)
-            
-            ![image.png](attachment:5fd7b902-d751-4cf2-ab83-0c40df0dd442:image.png)
+            <img width="639" height="341" alt="image" src="https://github.com/user-attachments/assets/9de1a7c7-eb1a-42b1-900a-2652b887ca19" />
+
             
             <aside>
             
@@ -449,13 +431,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
             
             - 두 직무 내 이직자들의 야근 비율과 경력 단계의 연관성
             
-            ![image.png](attachment:352f1b88-b7a2-4a63-a25b-647995254520:image.png)
-            
-            ![image.png](attachment:8d184c25-70c1-405a-b9c3-967ac430edc2:image.png)
-            
-            ![image.png](attachment:6d5fb195-fb8d-4f6b-95fd-ff5151aa1938:image.png)
-            
-            ![image.png](attachment:74c03bde-f530-4ef8-967b-8084e69c4201:image.png)
+            <img width="631" height="427" alt="image" src="https://github.com/user-attachments/assets/3c2dd7b3-31fa-4dc7-8403-05d63ca9bb81" />
+
             
             <aside>
             
@@ -469,10 +446,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
             
             - 두 직무 내 이직자들의 이직률과 교육 횟수의 연관성
                 
-                ![image.png](attachment:9e535e2a-c49a-4e20-9870-6d07dbe81119:image.png)
-                
-            
-            ![image.png](attachment:1a727e32-d7c7-4c7d-95ae-c60c5dbf3246:image.png)
+                <img width="626" height="791" alt="image" src="https://github.com/user-attachments/assets/dd10d6cc-0efe-4750-ad0a-8052d9ad8878" />
+
             
         
         <aside>
@@ -523,40 +498,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         - 주요 사용 변수 설명
             
-             - 커리어단계 분포 
-            
-        
-        ![캡처.PNG](attachment:d3304af2-ed30-469b-a3af-d0826d84d07e:캡처.png)
-        
-                - 학력수준 분포
-        
-        ![image.png](attachment:68e29cab-55e1-484c-98c0-e99d1fd889ba:image.png)
-        
-                 - 부서별 분포
-        
-        ![image.png](attachment:8bfc814c-0e4a-4ccc-a7a2-f85c756d9c6d:image.png)
-        
-                - 커리어단계별 학력수준 분포
-        
-        ![image.png](attachment:d8d59a4c-9681-4ee7-b1ba-2a6e5f5339cc:image.png)
-        
-        - 가설정리
-        
-             - 이직여부에 따른 커리어단계 비율 분포
-        
-        ![image.png](attachment:62fd1894-c068-45d8-a5f0-cc0573bd5112:image.png)
-        
-             - 이직여부에 따른 학력수준 분포
-        
-        ![image.png](attachment:5a9d3c83-4571-4c26-b390-9c4166dbc1b9:image.png)
-        
-              - 이직여부에 따른 부서별 분포
-        
-        ![image.png](attachment:22313ce8-becf-4821-a42c-81378c375ffb:image.png)
-        
-              - 부서별 학력수준 분포
-        
-        ![image.png](attachment:2da99905-a45d-4bf1-8813-fe577d024664:image.png)
+      <img width="593" height="989" alt="image" src="https://github.com/user-attachments/assets/8ddde08f-d8fe-4b25-8891-5dfefc541323" />
+
         
         <aside>
         
@@ -568,7 +511,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         - 분석결과
             - 이직여부에 따른 커리어단계와 학력수준의 연관성
                 
-                ![image.png](attachment:f8229820-18c1-452b-8689-01bb9310d9c0:image.png)
+                <img width="540" height="244" alt="image" src="https://github.com/user-attachments/assets/01729b5a-f7e1-409b-a9a5-ea584db93391" />
+
                 
             
             <aside>
@@ -582,7 +526,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
             
             - 이직자 중 Junior인 사람들의 학력수준과 전공분야의 연관성
                 
-                ![image.png](attachment:41678879-f48f-4fca-b33f-2985d40b9725:image.png)
+                <img width="539" height="430" alt="image" src="https://github.com/user-attachments/assets/82176e42-efda-47b6-ad9a-679d67c0a78b" />
+
                 
             
             <aside>
@@ -596,13 +541,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
             
             - 이직여부/부서별 커리어단계와 학력수준의 연관성
             
-                   - 이직자를 대상으로 부서별 커리어단계와 학력수준의 연관성 
-            
-            ![image.png](attachment:647a676d-a75a-41af-9920-87087e767d36:image.png)
-            
-                   - 비이직자를 대상으로 부서별 커리어단계와 학력수준의 연관성 
-            
-            ![image.png](attachment:e2541904-d160-450e-9740-d5bae69b52cb:image.png)
+                   <img width="569" height="407" alt="image" src="https://github.com/user-attachments/assets/974f3345-26c3-426a-9ce9-8d603652ef62" />
+
             
             <aside>
             
@@ -657,25 +597,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         
         - 주요 사용 변수 설명
         
-            -  커리어단계에 따른 월급 분포
-        
-        ![image.png](attachment:c8f844f9-5c0f-472f-acc0-9fc9bbf0f4ee:image.png)
-        
-         
-        
-             - 커리어단계에 따른 근무환경만족도 분포
-        
-        ![image.png](attachment:3c27cd10-2e07-4dac-9dab-9fe9e2b44311:image.png)
-        
-        - 가설정리
-        
-             - 이직여부에 따른 월급 분포
-        
-        ![image.png](attachment:7bca312a-9740-4bdb-a8b2-72c53b6fbea4:image.png)
-        
-             - 이직여부에 따른 근무환경만족도 분포
-        
-        ![image.png](attachment:9926efca-cfcd-4b80-b0e5-87edb4459cd8:image.png)
+            <img width="609" height="455" alt="image" src="https://github.com/user-attachments/assets/f6643b4b-e061-4785-b79a-4a5a4915d96e" />
+
         
         <aside>
         
@@ -687,7 +610,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
         - 분석결과
             - 이직여부에 따른 커리어단계와 월급의 연관성
                 
-                ![image.png](attachment:2377c224-d5fc-4cbf-b6ef-16e192b50408:image.png)
+                <img width="434" height="307" alt="image" src="https://github.com/user-attachments/assets/b7179bc1-3a14-4463-8f08-2ea9867efdf1" />
+
                 
             
             <aside>
@@ -701,7 +625,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
             
             - 이직자 중 Senior인 사람들의 근무환경만족도와 월급의 연관성
             
-            ![image.png](attachment:540679cb-9144-49e3-a1a9-e4d6f034559c:image.png)
+            <img width="564" height="365" alt="image" src="https://github.com/user-attachments/assets/6e4fe371-d5d0-4d1e-aacf-96cf458da6d6" />
+
             
             <aside>
             
@@ -714,9 +639,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
             
             - 이직여부에 따른 Mid-level 사람들의 초과근무, 월급의 연관성
                 
-                ![스크린샷 2025-09-18 233246.png](attachment:2205363a-d177-4b1d-8de9-d971733c4e3a:스크린샷_2025-09-18_233246.png)
-                
-                ![스크린샷 2025-09-19 001131.png](attachment:a4b64939-3b33-410e-8f58-917bc4d75655:스크린샷_2025-09-19_001131.png)
+                <img width="542" height="559" alt="image" src="https://github.com/user-attachments/assets/7a5fc4ad-7f2d-40bb-b9bb-df01aa48c324" />
+
                 
             
             <aside>
